@@ -1,6 +1,6 @@
 # Hi 👋 I'm Saurabh Yadav  
 
-### 🚀 Senior QA Automation Engineer | SAP Commerce Specialist  
+### 🚀 Senior QA Automation Engineer  
 
 📍 India | 🌍 Open to Remote (US / Europe)  
 📧 saurabhyadav228123@gmail.com  
